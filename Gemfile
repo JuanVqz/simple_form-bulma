@@ -8,5 +8,4 @@ group :development do
   gem 'sqlite3'
 end
 
-# To use a debugger
-# gem 'byebug', group: [:development, :test]
+gem 'byebug', group: %i[development test]
