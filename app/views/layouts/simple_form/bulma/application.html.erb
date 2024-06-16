@@ -6,10 +6,11 @@
   <%= csp_meta_tag %>
 
   <%= stylesheet_link_tag    "simple_form/bulma/application", media: "all" %>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
 </head>
 <body>
-
-<%= yield %>
-
+  <div class="container is-widescreen is-fullhd">
+    <%= yield %>
+  </div>
 </body>
 </html>
