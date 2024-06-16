@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  url: https://one.com
+  description: MyText
+  background: "#000000"
+  serial_number: 1111
+  quantity: 10
+  published_at: 2024-06-15 22:21:16
+
+two:
+  name: MyString
+  url: https://two.com
+  description: MyText
+  background: "#ffffff"
+  serial_number: 2222
+  quantity: 20
+  published_at: 2024-06-15 22:21:16
