@@ -1,9 +1,6 @@
 # SimpleForm::Bulma
 The easiest way to use Bulma with SimpleForm.
 
-## Usage
-How to use my plugin.
-
 ## Installation
 Add this line to your application's Gemfile:
 
@@ -13,13 +10,22 @@ gem 'simple_form-bulma'
 
 And then execute:
 ```bash
-$ bundle
+bundle
 ```
 
 Or install it yourself as:
 ```bash
 $ gem install simple_form-bulma
 ```
+
+## Usage
+To copy the Bulma theme for SimpleForm, run the following command:
+
+```bash
+bin/rails generate simple_form:bulma:install
+```
+
+Or you can copy the theme manually by copying the `config/initializers/simple_form_bulma.rb` file to your `config/initializers` directory.
 
 ## Contributing
 Contribution directions go here.

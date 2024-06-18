@@ -1,0 +1,3 @@
+To copy the SimpleForm::Bulma initializer to your Rails App, with the proper configuration, just run the following command:
+
+  rails generate simple_form:bulma:install
