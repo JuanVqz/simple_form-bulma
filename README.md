@@ -1,3 +1,5 @@
+# THIS GEM HAS BEEM MIGRATED TO https://github.com/JuanVqz/simple_form-theme
+
 # SimpleForm::Bulma
 The easiest way to use Bulma with SimpleForm.
 
