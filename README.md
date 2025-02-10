@@ -1,4 +1,6 @@
-# THIS GEM HAS BEEM MIGRATED TO https://github.com/JuanVqz/simple_form-theme
+> [!WARNING]
+> This gem is not maintained anymore.
+> If you want to use Bulma with SimpleForm use [simple_form-theme](https://github.com/JuanVqz/simple_form-theme) instead.
 
 # SimpleForm::Bulma
 The easiest way to use Bulma with SimpleForm.
